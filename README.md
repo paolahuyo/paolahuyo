@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Paola Huyo
-#### I'm a Front End Developer & Industrial Designer focused on UI/UX. I love tech and enjoy designing webs and mobile apps. 
+### Hi there 👋, my name is Paola Huyo 🧏🏻‍♀️
+#### I'm a Front End Developer & Industrial Designer focused on UI/UX. I love tech and enjoy designing webs and mobile apps 💻📱. 
 
 I'm a learner, leader and a really empathic woman. Currently I'm participating at Laboratoria Bootcamp in Bogotá, learning JavaScript and React developing collaborative projects with agile methods.
 
