@@ -1,7 +1,9 @@
 ### Hi there 👋, my name is Paola Huyo
 #### I'm a Front End Developer & Industrial Designer focused on UI/UX. I love tech and enjoy designing webs and mobile apps. 
 
-Skills: REACT / JS / HTML / CSS / SKETCH / WORDPRESS / FIGMA
+I'm a learner, leader and a really empathic woman. Currently I'm participating at Laboratoria Bootcamp in Bogotá, learning JavaScript and React developing collaborative projects.
+
+Skills: *React / Js / Html / CSS / SketchApp / WordPress / Figma*
 
 - 🔭 I’m currently working on an app for a restaurant and improving a WooCommerce page 
 - 🌱 I’m currently learning React 18 
